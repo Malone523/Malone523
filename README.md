@@ -15,5 +15,5 @@ learn outside of coursework.
 ---
 
 **Links**
-- Portfolio & certifications: [Portfolio](https://github.com/Malone523/Portfolio)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rosu-denis-serban-matei/)
+- [Portfolio](https://github.com/Malone523/Portfolio)
+- [LinkedIn](https://www.linkedin.com/in/rosu-denis-serban-matei/)
