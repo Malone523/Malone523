@@ -9,7 +9,7 @@ Beyond game development, I actively compete in hackathons, datathons, game jams,
 and engineering competitions, constantly looking for opportunities to build and
 learn outside of coursework.
 
-**Languages:** C++, C, GML, Python
+**Languages:** C++, C, GML, Python  
 **Tools:** GameMaker Studio 2, Godot, Git, GitHub, VS Code
 
 **Links**
