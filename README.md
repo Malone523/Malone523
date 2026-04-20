@@ -12,7 +12,7 @@ learn outside of coursework.
 **Languages:** C++, C, GML, Python  
 **Tools:** GameMaker Studio 2, Godot, Git, GitHub, VS Code
 
----
+--
 
 **Links**
 - Portfolio & certifications: [github.com/Malone523/Portfolio](https://github.com/Malone523/Portfolio)
