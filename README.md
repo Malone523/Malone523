@@ -1,16 +1,17 @@
-## Hi there 👋
+# Denis-Șerban-Matei Roșu
 
-<!--
-**Malone523/Malone523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Robotics and Intelligent Systems student at Constructor University Bremen,
+with a strong interest in game development and software engineering. I have been
+independently designing and building games since 2023, working across turn-based
+combat systems, procedural generation, and inventory architecture.
 
-Here are some ideas to get you started:
+Beyond game development, I actively compete in hackathons, datathons, game jams,
+and engineering competitions, constantly looking for opportunities to build and
+learn outside of coursework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C++, C, GML, Python
+**Tools:** GameMaker Studio 2, Godot, Git, GitHub, VS Code
+
+**Links**
+- Portfolio & certifications: [github.com/Malone523/Portfolio](https://github.com/Malone523/Portfolio)
+- LinkedIn: [linkedin.com/in/denis](https://linkedin.com/in/denis)
