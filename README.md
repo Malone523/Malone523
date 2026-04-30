@@ -14,7 +14,7 @@ learn outside of coursework.
 
 ---
 
-**Links**
+**Links:**
 - [Portfolio](https://github.com/Malone523/Portfolio)
 - [LinkedIn](https://www.linkedin.com/in/rosu-denis-serban-matei/)
 - [Itch.io](https://itch.io/profile/malone523)
